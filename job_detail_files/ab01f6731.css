@@ -161,7 +161,7 @@ blockquote {
   background-color: #fff;
 }
 
-.social-icon {
+.icons-so {
   width: 36px;
   height: 36px;
   margin-right: 5px;
@@ -175,26 +175,26 @@ blockquote {
   transition: all 400ms ease;
 }
 
-.social-icon:hover {
+.icons-so:hover {
   background-color: #212121;
 }
 
-.social-icon.twitter {
+.icons-so.twitter {
   background-image: url("http://uploads.webflow.com/57a49d19ae4229de1de36e40/57a4a2e294765a191e4146b4_fa-twitter_100_0_ffffff_none.png");
   background-size: 13px;
 }
 
-.social-icon.pin {
+.icons-so.pin {
   background-image: url("http://uploads.webflow.com/57a49d19ae4229de1de36e40/57a4a2f2e67057bb1c67561a_fa-pinterest-p_100_0_ffffff_none.png");
   background-size: 14px;
 }
 
-.social-icon.rss {
+.icons-so.rss {
   background-image: url("http://uploads.webflow.com/57a49d19ae4229de1de36e40/57a622983e4192b946e2ffbf_font-awesome_4-6-3_google-plus_100_0_ffffff_none.png");
   background-size: 18px;
 }
 
-.social-icon.linkin {
+.icons-so.linkin {
   background-image: url("http://uploads.webflow.com/57a49d19ae4229de1de36e40/57a622b53e4192b946e2ffc2_brandico_2014-04-07_linkedin_100_0_ffffff_none.png");
   background-size: 13px;
 }
